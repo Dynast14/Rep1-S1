@@ -1,0 +1,16 @@
+# Archivos y carpetas que no se deben subir a GitHub
+node_modules/
+clinica.db
+.env
+*.log
+.DS_Store
+Thumbs.db
+npm-debug.log*
+
+# Archivos temporales y de sistema
+*.tmp
+*.swp
+*.swo
+
+# Visual Studio Code
+.vscode/
